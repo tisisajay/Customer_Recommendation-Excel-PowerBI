@@ -17,3 +17,5 @@ I have to perform three tasks.
 Task One: Data Quality Assessment
 Task Two: Data Insights
 Task Three: Data Visualization and Presentation
+
+I have used Excel to clean the datasets and found desirable KPIs. Then used Power BI to make a simple dashboard to visualize them.
